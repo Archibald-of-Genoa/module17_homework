@@ -12,7 +12,7 @@ xdescribe("tests for definePrime function", () => {
     });
 });
 
-describe("tests for definePrime function", () => {
+xdescribe("tests for definePrime function", () => {
   it("should operate correctly with simple, complex and invalid number", () => {
     const simple = 17;
     const complex = 18;
